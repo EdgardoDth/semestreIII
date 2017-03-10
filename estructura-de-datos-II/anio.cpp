@@ -51,8 +51,5 @@ int main()
         cout << "Fecha invalida...." << endl;
     }
 
-
- 		return 0;
-
-
+ 	return 0;
 }
