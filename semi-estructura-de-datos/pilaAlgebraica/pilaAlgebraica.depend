@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487362399 source:c:\users\edgar\documents\pilaalgebraica\main.cpp
+	<iostream>
+	<cstring>
+	"Pila.h"
+
+1487366680 c:\users\edgar\documents\pilaalgebraica\include\pila.h
+	<string>
+
+1487613113 source:c:\users\edgar\documents\pilaalgebraica\src\pila.cpp
+	"Pila.h"
+	<iostream>
+
