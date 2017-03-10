@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1487614405 source:c:\users\edgar\documents\pilacalculadora\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Pila.h"
+
+1487616075 c:\users\edgar\documents\pilacalculadora\include\pila.h
+	<string>
+
+1487618841 source:c:\users\edgar\documents\pilacalculadora\src\pila.cpp
+	"Pila.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
