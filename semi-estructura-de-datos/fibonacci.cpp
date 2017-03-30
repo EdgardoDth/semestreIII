@@ -1,7 +1,6 @@
 /*
  *  SECUENCIA DE FIBONACCI
  *  PEREYRA CANCIO, EDGARDO
- * 21 30 55 90 4
  */
 
  #include <iostream>
