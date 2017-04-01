@@ -1,7 +1,11 @@
-#programa que calcula la distribuicion de poisson
+# programa que calcula la distribuicion de poisson
 
 import math
 
+# donde "r" es el numero de registros almacenados en un archivo
+# donde "n" es el numero de direcciones posibles en un archivo
+# donde "x" es el numero de registros asociados en un archivo
+ 
 def disPoisson(r, n, x):
     num = (((r / n) ** x) * math.exp(-(r / n))) / math.factorial(x)
     return num
