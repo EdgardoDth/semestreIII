@@ -1,3 +1,9 @@
+#
+# autor: Pereyra Cancio Edgardo
+# descripcion: Implementacion de una lista dinamica simplemente
+#              ligada
+# 
+
 from Lista import Lista
 
 miLista = Lista()
