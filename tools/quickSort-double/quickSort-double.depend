@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1494653432 source:/home/raudel/Documents/universidad/semestreIII/tools/quickSort-double/main.cpp
+	<iostream>
+	"Lista.h"
+
+1494651742 source:/home/raudel/Documents/universidad/semestreIII/tools/quickSort-double/src/Nodo.cpp
+	"Nodo.h"
+
+1494696020 /home/raudel/Documents/universidad/semestreIII/tools/quickSort-double/include/Nodo.h
+
+1494656435 /home/raudel/Documents/universidad/semestreIII/tools/quickSort-double/include/Lista.h
+	"Nodo.h"
+
+1494695256 source:/home/raudel/Documents/universidad/semestreIII/tools/quickSort-double/src/Lista.cpp
+	<iostream>
+	"Lista.h"
+
