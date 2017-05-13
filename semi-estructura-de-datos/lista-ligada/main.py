@@ -1,7 +1,7 @@
 #
 # autor: Pereyra Cancio Edgardo
 # descripcion: Implementacion de una lista dinamica simplemente
-#              ligada
+#              ligada de numeros
 # 
 
 from Lista import Lista
